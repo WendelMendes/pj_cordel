@@ -116,7 +116,7 @@ footer{
         line-height: 2em;
         padding-left: 30px;
         font-family: var(--font3);
-        font-size: vw;
+        font-size: 4vw;
     }
 
     .right-login{
