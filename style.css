@@ -118,17 +118,4 @@ footer{
         font-family: var(--font3);
         font-size: 4vw;
     }
-
-    .right-login{
-        width: 100%;
-        height: auto;
-    }
-
-    .left-login-image{
-        width: 50vw;
-    }
-
-    .card-login{
-        width: 90%;
-    }
 }
